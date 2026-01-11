@@ -28,10 +28,9 @@ Com inglês avançado, colaboro de forma eficaz em ambientes multiculturais e es
 ## 🚀 Main Projects
 
 ### 🏬 VL Store — Sistema de Gestão Comercial
-Sistema full stack para controle de vendas, estoque, clientes e fluxo de caixa.
+Sistema full stack para controle de vendas, estoque, clientes, fluxo de caixa e geração de relatórios personalizados além de controle de filiais e visualização de logs de acesso e de sistema.
 
 - **Stack:** Next.js, Node.js, Express, PostgreSQL, Bootstrap 5, Typescript.
-- **Destaques:** Clean Architecture, APIs REST, autenticação e regras de negócio
 - 🔗 Repositório: https://github.com/danilopvalerio/Vl-Store-V3
 
 ---
@@ -40,7 +39,6 @@ Sistema full stack para controle de vendas, estoque, clientes e fluxo de caixa.
 Sistema desenvolvido para gestão de clínica médica, incluindo cadastro de pacientes e atendimentos.
 
 - **Stack:** Next.js, Node.js, Express, PostgreSQL, Bootstrap 5, Typescript.
-- **Destaques:** Modelagem de dados, backend estruturado e regras de domínio
 - 🔗 Repositório: https://github.com/danilopvalerio/projeto-integrador-bfd-clinica
 
 ---
@@ -49,13 +47,15 @@ Sistema desenvolvido para gestão de clínica médica, incluindo cadastro de pac
 Projeto acadêmico voltado ao estudo de conceitos fundamentais de computação gráfica.
 
 - **Stack:** JavaScript, Html, Css
-- **Destaques:** Transformações gráficas, renderização e conceitos matemáticos
+- **Destaques:** Transformações gráficas, renderização e conceitos matemáticos.
 - 🔗 Repositório: https://github.com/danilopvalerio/computacao-grafica
 
 ---
 
 ### 🌐 Portfolio Profissional
-Meu site pessoal para apresentação de projetos, habilidades e informações profissionais.
+Meu site pessoal para apresentação de projetos, habilidades e informações profissionais.  
+🔗 **Link:** [https://dvalerio-portfolio.vercel.app/](https://dvalerio-portfolio.vercel.app/)
+
 
 - **Stack:** Next.js, React, UI moderna e responsiva
 - **Destaques:** SEO, design limpo e foco em experiência do usuário
