@@ -20,46 +20,45 @@
 
 ---
 # 💫 About Me:
-Com conhecimento em desenvolvimento web full-stack, atuo com tecnologias como React.js, Vue.js, Node.js, Express.js e Java, integrando competências em front-end (UI/UX) e back-end (APIs REST, bancos de dados SQL e NoSQL, como MongoDB, PostgreSQL e MySQL). Possuo experiência na construção de aplicações robustas, aplicando boas práticas de arquitetura, segurança e manutenibilidade.<br>
-Com inglês avançado, colaboro de forma eficaz em ambientes multiculturais e estou preparado para contribuir em projetos globais, desde protótipos inovadores até sistemas em larga escala.
+Full Stack Developer with a focus on back-end, specialized in building robust and scalable applications using Node.js and TypeScript. Experience in developing complex systems with knowledge in architecture, RESTful API implementation, authentication, and relational database modeling.
 
 ---
 
 ## 🚀 Main Projects
 
-### 🏬 VL Store — Sistema de Gestão Comercial
-Sistema full stack para controle de vendas, estoque, clientes, fluxo de caixa e geração de relatórios personalizados além de controle de filiais e visualização de logs de acesso e de sistema.
+### 🏬 VL Store — Business Management System
+Full stack system for sales control, inventory, customers, cash flow, and custom report generation, plus branch control and access/system log visualization.
 
-- **Stack:** Next.js, Node.js, Express, PostgreSQL, Bootstrap 5, Typescript.
-- 🔗 Repositório: https://github.com/danilopvalerio/Vl-Store-V3
-
----
-
-### 🏥 Sistema Clínico — Projeto Integrador
-Sistema desenvolvido para gestão de clínica médica, incluindo cadastro de pacientes e atendimentos.
-
-- **Stack:** Next.js, Node.js, Express, PostgreSQL, Bootstrap 5, Typescript.
-- 🔗 Repositório: https://github.com/danilopvalerio/projeto-integrador-bfd-clinica
+- **Stack:** Next.js, Node.js, Express, PostgreSQL, Bootstrap 5, TypeScript.
+- 🔗 Repository: https://github.com/danilopvalerio/Vl-Store-V3
 
 ---
 
-### 🎨 Computação Gráfica
-Projeto acadêmico voltado ao estudo de conceitos fundamentais de computação gráfica.
+### 🏥 Clinical System — Integrator Project
+System developed for medical clinic management, including patient and appointment registration.
 
-- **Stack:** JavaScript, Html, Css
-- **Destaques:** Transformações gráficas, renderização e conceitos matemáticos.
-- 🔗 Repositório: https://github.com/danilopvalerio/computacao-grafica
+- **Stack:** Next.js, Node.js, Express, PostgreSQL, Bootstrap 5, TypeScript.
+- 🔗 Repository: https://github.com/danilopvalerio/projeto-integrador-bfd-clinica
 
 ---
 
-### 🌐 Portfolio Profissional
-Meu site pessoal para apresentação de projetos, habilidades e informações profissionais.  
+### 🎨 Computer Graphics
+Academic project focused on studying fundamental concepts of computer graphics.
+
+- **Stack:** JavaScript, HTML, CSS
+- **Highlights:** Graphic transformations, rendering, and mathematical concepts.
+- 🔗 Repository: https://github.com/danilopvalerio/computacao-grafica
+
+---
+
+### 🌐 Professional Portfolio
+My personal website for showcasing projects, skills, and professional information.  
 🔗 **Link:** [https://dvalerio-portfolio.vercel.app/](https://dvalerio-portfolio.vercel.app/)
 
 
-- **Stack:** Next.js, React, UI moderna e responsiva
-- **Destaques:** SEO, design limpo e foco em experiência do usuário
-- 🔗 Repositório: https://github.com/danilopvalerio/portoflio
+- **Stack:** Next.js, React, modern and responsive UI
+- **Highlights:** SEO, clean design, and focus on user experience
+- 🔗 Repository: https://github.com/danilopvalerio/portoflio
 
 ---
 
